@@ -137,7 +137,7 @@ if __name__ == '__main__':
     print('\nPromedio Alumnos:')
     Alumno.listar_alumnos()
     print('-'*50)
-    
+
     # Ejecercicio 5
     print('EJERICIO 5. Muestra mes')
     meses = ('ENERO', 'FEBRERO', 'MARZO', 'ABRIL', 'MAYO', 'JUNIO', 'JULIO',
