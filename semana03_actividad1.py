@@ -5,7 +5,7 @@ from random import randint
 
 Nombre: José Rodrigo Álvarez Herrera
 Folio : 406RD06
-Fecha : 06-06-2023
+Fecha : 13-06-2023
 
 Ejercicio 1. Realizar un programa que inicialice una lista con 10 
 valores aleatorios (del 1 al 10) y posteriormente muestre en 

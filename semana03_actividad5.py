@@ -2,7 +2,7 @@
 
 Nombre: José Rodrigo Álvarez Herrera
 Folio : 406RD06
-Fecha : 08-06-2023
+Fecha : 13-06-2023
 
 Ejercicio 1. Programa que imprima si un número es positivo o negativo.
 Ejercicio 2. Programa que imprima si número está en el rango de 1 a 7.
