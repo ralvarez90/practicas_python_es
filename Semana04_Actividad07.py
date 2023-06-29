@@ -2,7 +2,7 @@
 
 Nombre: José Rodrigo Álvarez Herrera
 Folio : 406RD06
-Fecha : 21-06-2023
+Fecha : 26-06-2023
 
 PROGRAMACIÓN ORIENTADA A OBJETOS
 
